@@ -1,5 +1,5 @@
 ## Hello there 👋
-<img align="right" alt="Code" width="500px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code.jpg"/>
+<img align="right" alt="Code" width="500px" src="1846994.jpg"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science , Machine Learning, Deep Learning , Natural Language Processing and Flask Projects.
