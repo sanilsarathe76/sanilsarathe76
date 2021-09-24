@@ -1,5 +1,5 @@
 ## Hello there 👋
-<img align="right" alt="Code" width="500px" src="sphere-art-modern-art.jpg"/>
+<img align="right" alt="Code" width="1846994.jpg"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science , Machine Learning, Deep Learning , Natural Language Processing and Flask Projects.
